@@ -1,0 +1,13 @@
+*{font-family: Candara}
+
+#yAxisLabel, #xAxisLabel{
+    font-size: 1.2em
+}
+
+#x-axis, #y-axis{
+    font-size: 1.1em;
+}
+
+#title{
+    font-size: 1.4em;
+}
